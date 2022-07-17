@@ -4,4 +4,4 @@ Este pequeno projeto representa uma iniciativa minha – em face do maior entend
 
 
 
-* [Password Randomizer 1](https://github.com/Cyberleitor/Password_Randomizer/blob/master/Script/password_randomizer.py) (21 de junho de 2022).
+* [Password Randomizer 1](https://github.com/Cyberleitor/Password_Randomizer/blob/master/script/password_randomizer.py) (21 de junho de 2022).
